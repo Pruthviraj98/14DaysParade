@@ -1,4 +1,5 @@
 '''
+LC637
 Given the root of a binary tree, return the average val of the nodes on each level in the form of an array. Answers within 10-5 of the actual answer will be accepted.
  
 
@@ -64,6 +65,7 @@ print(test2())
 
 
 '''
+LC111
 Given a binary tree, find its minimum depth.
 
 The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
