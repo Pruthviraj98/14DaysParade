@@ -21,8 +21,7 @@ Steps -
    NOTE: If you contributing for the first time, create your folder and add your problem files there.
    NOTE: Make sure to pull and push the commit
 
-4. FYI - There is no minimum approvals needed for merging.
-   However, if you wish someone to review your code, please add them as reviewers and they can comment on your code to enhance it or comment on it.
+4. FYI - You need atleast one approval for merging. Add me as a reviewer at the least. Thank you!
 
 
 NOTE: DO NOT create new tickets on the project. I will be creating them every weekends for the following weeks.
