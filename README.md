@@ -1,4 +1,4 @@
-# 14DaysParade
+# Something Is Cooking
 
 Creating this repository for anyone who wants to Leetcode with me. 
 Doing this to have a collaborative environment and learn together
